@@ -17,6 +17,7 @@ import {
   LogOut,
   ThumbsUp,
   ThumbsDown,
+  
 } from "lucide-react";
 
 const WaveBackground = () => (
